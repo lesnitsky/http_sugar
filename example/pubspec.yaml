@@ -1,0 +1,5 @@
+name: http_sugar_example
+
+dependencies:
+  http_sugar:
+    path: ../
