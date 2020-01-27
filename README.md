@@ -3,7 +3,7 @@
 Sugar methods for HttpRequest and HttpResponse
 
 [![GitHub stars](https://img.shields.io/github/stars/lesnitsky/http_sugar.svg?style=social)](https://github.com/lesnitsky/http_sugar)
-[![Twitter Follow](https://img.shields.io/twitter/follow/lesnitsky_a.svg?label=Follow%20me&style=social)](https://twitter.com/lesnitsky_a)
+[![Twitter Follow](https://img.shields.io/twitter/follow/lesnitsky_dev.svg?label=Follow%20me&style=social)](https://twitter.com/lesnitsky_dev)
 
 ## Usage
 
@@ -47,4 +47,4 @@ MIT
 Andrei Lesnitsky
 
 [![GitHub stars](https://img.shields.io/github/stars/lesnitsky/http_sugar.svg?style=social)](https://github.com/lesnitsky/http_sugar)
-[![Twitter Follow](https://img.shields.io/twitter/follow/lesnitsky_a.svg?label=Follow%20me&style=social)](https://twitter.com/lesnitsky_a)
+[![Twitter Follow](https://img.shields.io/twitter/follow/lesnitsky_dev.svg?label=Follow%20me&style=social)](https://twitter.com/lesnitsky_dev)
